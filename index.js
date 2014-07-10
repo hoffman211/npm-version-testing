@@ -7,3 +7,7 @@ GlobalCss.getVersion = function(){
 GlobalCss.test = function(){
     console.log('test');
 }
+
+GlobalCss.test2 = function(){
+    console.log('test2');
+}
