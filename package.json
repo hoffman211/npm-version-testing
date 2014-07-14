@@ -4,7 +4,8 @@
   "description": "Version testing",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "start": "grunt"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,23 @@
   "bugs": {
     "url": "https://github.com/hoffman211/npm-version-testing/issues"
   },
-  "homepage": "https://github.com/hoffman211/npm-version-testing"
+  "homepage": "https://github.com/hoffman211/npm-version-testing",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-newer": "*",
+    "grunt-prompt": "*",
+    "grunt-bump": "*",
+    "semver": "~2.2.1",
+    "connect-ssi": "",
+    "grunt-conventional-changelog": ""
+  }
 }
