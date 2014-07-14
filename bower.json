@@ -1,6 +1,6 @@
 {
   "name": "npm-version-testing",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "devDependencies": {
     "angular": "1.2.4"
   },
