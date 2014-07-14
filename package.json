@@ -1,7 +1,12 @@
 {
   "name": "npm-version-testing",
-  "version": "3.0.1",
+  "version": "5.0.1",
   "description": "Version testing",
+  "keywords": [
+    "enter",
+    "keywords",
+    "here"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
@@ -32,7 +37,7 @@
     "grunt-prompt": "*",
     "grunt-bump": "*",
     "semver": "~2.2.1",
-    "connect-ssi": "",
-    "grunt-conventional-changelog": ""
+    "grunt-conventional-changelog": "",
+    "grunt-contrib-jade": ""
   }
 }
