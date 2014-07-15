@@ -1,6 +1,6 @@
 {
   "name": "npm-version-testing",
-  "version": "5.0.9",
+  "version": "6.0.0",
   "description": "Version testing",
   "keywords": [
     "enter",
@@ -38,6 +38,7 @@
     "grunt-bump": "*",
     "semver": "~2.2.1",
     "grunt-conventional-changelog": "",
-    "grunt-contrib-jade": ""
+    "grunt-contrib-jade": "",
+    "markdown": ""
   }
 }
