@@ -1,8 +1,9 @@
 {
   "name": "npm-version-testing",
-  "version": "6.0.4",
+  "version": "6.1.0",
   "devDependencies": {
-    "angular": "1.2.4"
+    "angular": "1.2.4",
+    "jquery": "x.x.x"
   },
   "dependencies": {}
 }
